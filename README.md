@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas
 
-<!--
-**anascodes21/anascodes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate student developer interested in **Python, IoT, and smart systems**.  
+I enjoy building practical projects that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python  
+- Arduino / IoT  
+- Git & GitHub  
+- Basic electronics & automation
+
+---
+
+## 📌 Featured Projects
+
+### 🔐 Data Encryption (Python)
+A simple Python-based encryption tool for securing text data.  
+**Tech:** Python
+
+### 🌱 Smart Plant Pot
+An IoT project that helps automate plant care using sensors.  
+**Tech:** Arduino, Sensors
+
+### 🚗 Smart Parking System
+A basic smart parking prototype for managing parking availability.  
+**Tech:** Arduino, Embedded Systems
+
+---
+
+## 🌱 Currently Learning
+- Data Structures & Algorithms  
+- IoT system design  
+- Improving Python skills
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/anascodes21  
+- *(Add LinkedIn / Email if you want)*
+
+---
+
+⭐ Feel free to explore my repositories and follow my learning journey!
