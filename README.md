@@ -38,7 +38,7 @@ A basic smart parking prototype for managing parking availability.
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/anascodes21  
-- *(Add LinkedIn / Email if you want)*
+- Linkedin: https://www.linkedin.com/in/anas-ahmed-ab1a94362?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
